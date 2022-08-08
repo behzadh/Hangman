@@ -69,7 +69,7 @@ def ask_letter(self):
      -   If the letter is in the word, replace the '_' in the word_guessed list with the letter.
      -   If it is not, reduce the number of lives by one and, as a hint, visualise an additional part of the hangman. 
 
-![image]([/Users/behzad/AiCore/hangman/hangman_scsh](https://github.com/behzadh/hangman/blob/Hangman_draft/hangman_scsh.png))
+![alt text](https://github.com/behzadh/Hangman/blob/main/hangman_scsh.png?raw=true)
 
 ## Milestone 4
 
